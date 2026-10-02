@@ -1,0 +1,8 @@
+{
+  "name": "ROYAL EXTRACURRICULAR CLASS",
+  "description": "Hệ thống Quản lý Lớp học Ngoại khóa trường Royal School (Admin Web & Teacher Mobile) với cơ chế tự động bù giờ, điểm danh và lưu trữ dữ liệu tập trung PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
